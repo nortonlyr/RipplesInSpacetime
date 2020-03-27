@@ -25,5 +25,10 @@ Obviously, with four parts, and only a few tests, grading is going be interestin
 
         30 is a perfect score.
 
+When you start, fork and clone. Make a simple change. Use git to commit that simple change. Push it
+to your repo. Then, Create a Pull Request right now! That way you won't forget. (and as you continue to 
+work, commit and push about every half hour, it will keep the pull Request up to date). 
+I want to see several "steps" along the way of your progression thru the problems.
+
 **You must get at least one of the parts correct to pass.** But at this point,
 we tend to think you should be able to *do 3 of the 4*, no matter what, in the time period given.
