@@ -10,10 +10,12 @@ them.
 
 Obviously, with four parts, and only a few tests, grading is going be interesting.
 
-Part 1 : 12 tests
-Part 2 : 9 tests
-Part 3 : 4 tests
-Part 4 : 5 tests
+- Part 1 : 12 tests
+- Part 2 : 9 tests
+- Part 3 : 4 tests
+- Part 4 : 5 tests
+
+        30 is a perfect score.
 
 You must get at least one of the parts correct to pass. But at this point,
 we tend to think you should be able to do 3 of the 4, no matter what, in the time period given.
